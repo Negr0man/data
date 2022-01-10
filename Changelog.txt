@@ -1,0 +1,12 @@
+===========================================================================================================================
+Version 1.0.1
+
+- Added Changeslog.txt
+- Replaced "How can i get access do direct link?" to "How can i disable Windows Defender?"
+
+AV Status: Currently the Auto Moderator is detected as trojan but if you dont belive me,
+           im gonna release the source code at Version 2.0
+
+Anwser to "How can i get access do direct link?"
+: You have to buy super donator its 5$. More information about this at #donations (in our discord server)
+===========================================================================================================================
