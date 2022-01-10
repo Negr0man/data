@@ -1,7 +1,7 @@
 ===========================================================================================================================
 Version 1.0.1
 
-- Added Changeslog.txt
+- Added Changelog.txt
 - Replaced "How can i get access do direct link?" to "How can i disable Windows Defender?"
 
 AV Status: Currently the Auto Moderator is detected as trojan but if you dont belive me,
